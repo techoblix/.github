@@ -1,6 +1,12 @@
+<a href="https://www.techoblix.com">
+  <img src="https://raw.githubusercontent.com/techoblix/.github/main/profile/banner.png" alt="TechOblix: AI systems, built and governed. Readiness audits, AI-ready data and private knowledge assistants for mid-market teams." width="100%">
+</a>
+
 # TechOblix
 
 AI and data readiness audits for mid-market teams, then AI-ready data and private knowledge assistants built on what the audit finds.
+
+[Website](https://www.techoblix.com) · [Services](https://www.techoblix.com/services) · [Case studies](https://www.techoblix.com/case-studies) · [About](https://www.techoblix.com/about) · [Book a discovery call](https://www.techoblix.com/contact)
 
 ## What we do
 
@@ -16,7 +22,10 @@ We start with an AI and data readiness audit. We review the systems and data sou
 
 ## Focus areas
 
-AI readiness assessment, AI readiness audit, data readiness, AI-ready data, data governance, data quality, data lineage, systems integration, data engineering, private knowledge assistants, enterprise knowledge assistants, knowledge management, document governance, shadow AI, AI adoption, AI governance, data privacy, AI consulting, AI strategy and workflow automation.
+- **Readiness and strategy:** AI readiness assessment, AI readiness audit, AI strategy, AI consulting, AI adoption
+- **Data:** data readiness, AI-ready data, data quality, data lineage, data engineering, systems integration, workflow automation
+- **Knowledge assistants:** private knowledge assistants, enterprise knowledge assistants, knowledge management, document governance, shadow AI
+- **Governance:** data governance, AI governance, data privacy
 
 ## Who we work with
 
@@ -27,6 +36,6 @@ Our team has delivered AI and data systems that reached production. Client work 
 ## Contact
 
 - Website: [www.techoblix.com](https://www.techoblix.com)
-- Services: [www.techoblix.com/services](https://www.techoblix.com/services)
 - Book a discovery call: [www.techoblix.com/contact](https://www.techoblix.com/contact)
+- LinkedIn: [linkedin.com/company/techoblix](https://www.linkedin.com/company/techoblix)
 - Email: info@techoblix.com
